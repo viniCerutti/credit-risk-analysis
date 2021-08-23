@@ -1,9 +1,5 @@
 ### Credit Risk Analysis
 
-<p align="center">
-  <img src="https://capital.com/files/imgs/glossary/1200x627x1/8-Credit%20Risk.jpg" />
-</p>
-
 A empresa Hobbit quer expandir seus negócios e para isso precisa automatizar o processo decisório de crédito, que até então vinha sendo feito de forma manual pelo seu time de analistas de crédito. Para isso, solicitou a você, cientista de dados, a análise da base dos créditos concedidos aos seus clientes no ano de 2020. O objetivo é, que a cada nova proposta de crédito, na sua plataforma digital, a aprovação (para bons clientes) ou recusa (para os maus clientes) seja decidida em poucos segundos.
 
 Percebe-se através da análise que os principais fatores que impactam no risco de crédito são:
