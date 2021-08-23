@@ -1,0 +1,85 @@
+{
+	"status_of_existing_checking_account":{
+		"A11":"< 0 DM",
+		"A12":"0 <= and < 200 DM",
+		"A13":"> 200DM / salary assignments for at least 1 year",
+		"A14":"no checking account"
+	},
+	"credit_history":{
+		"A30":"no credits tanken/all credits paid back duly",
+		"A31":"all credits at this band paid back duly",
+		"A32":"existing credits paind back duly till now",
+		"A33":"delay in paying off in the past",
+		"A34":"critical account / other credits existing (not at this bank)"
+	},
+	"purpose":{
+		"A40":"car (new)",
+		"A41":"car (used)",
+		"A42":"furniture/equipment",
+		"A43":"radio/television",
+		"A44":"domestic appliances",
+		"A45":"reparis",
+		"A46":"education",
+		"A47":"(vaction - does not exist?)",
+		"A48":"retraining",
+		"A49":"business",
+		"A410":"others"
+	},
+	"savings_account_bonds":{
+		"A61": "< 100DM",
+		"A62":"100 <= and < 500DM",
+		"A63":"500 <= and 1000 DM",
+		"A64":">= 1000 DM",
+		"A65": "unknown / no savings account"
+	},
+	"present_employment_since":{
+		"A71":"unemployed",
+		"A72":"< 1 year",
+		"A73":"1 <= and < 4 years",
+		"A74":"4 <= and < 7 years",
+		"A75":">= 7 years"
+	},
+	"personal_status_and_sex":{
+		"A91":"male : divorced/separated",
+		"A92":"female : divorced/separated/married",
+		"A93":"male : single",
+		"A94":"male : married/windowed",
+		"A95":"female : single"
+	},
+	"others_debtors_guarantors":{
+		"A101": "None",
+		"A102":"co-applicant",
+		"A103":"guarantor"
+	},
+	"property":{
+		"A121":"real estate",
+		"A122":"if not real estate : building society savings agreement/life insurance",
+		"A123":"if not others options : car or other, not in savings accounts/bonds",
+		"A124":"unknown/no property"
+	},
+	"other_installment_plans":{
+		"A141":"bank",
+		"A142":"stores",
+		"A143":"None"
+	},
+	"housing":{
+		"A151":"rent",
+		"A152":"own",
+		"A153":"for free"
+	},
+	"job":{
+		"A171":"unemployed/unskilled-non-resident",
+		"A172":"unskilled-resident",
+		"A173":"skilled employee /official",
+		"A174":"management/self-employed/highly qualified employee/officer"
+	},
+	"telephone":{
+		"A191":"None",
+		"A192": "yes, registered under the customers name"
+	},
+	"foreign_worker":{
+		"A201":"yes",
+		"A202":"no"
+	}
+	
+}
